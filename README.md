@@ -1,33 +1,29 @@
-<h1 align="center">Hi 👋 I'm Mooorten</h1>
+<h1 align="center">Hi 👋 I'm Morten Friis Davidsen</h1>
 
 <h3 align="center">
 🔐 IT Security Bachelor's Student • ☕ Software Developer • 🛡️ Secure Software Development
 </h3>
 
 <p align="center">
-Datamatiker (AP Graduate in Computer Science) currently pursuing a Bachelor's degree in IT Security.
+AP Graduate in Computer Science (Datamatiker) currently pursuing a Bachelor's degree in IT Security.
 <br>
-Passionate about building secure software, networking, cloud technologies and cybersecurity.
+Specializing in Software Security, Network Security and Regulation & Compliance.
+</p>
+
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=Mooorten&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
 
 # 👨‍💻 About Me
 
-🎓 AP Graduate in Computer Science (Datamatiker)
-
-🎓 Bachelor's Degree in IT Security
-
-🔐 Specialized in:
-- Software Security
-- Network Security
-- Regulation & Compliance
-
-☕ Backend Developer focused on Node.js
-
-🌐 Interested in Cyber Security, Infrastructure and Cloud
-
-🚀 Currently building real-world security projects for my portfolio
+- 🎓 AP Graduate in Computer Science (Datamatiker)
+- 🎓 Bachelor's Student in IT Security
+- 🔐 Specializing in Software Security, Network Security & Regulation and Compliance
+- ☕ Passionate about secure backend development with Java & Spring Boot
+- 🌐 Interested in infrastructure, cloud and modern cybersecurity
+- 🚀 Currently building real-world security projects for my portfolio
 
 ---
 
@@ -43,18 +39,24 @@ Passionate about building secure software, networking, cloud technologies and cy
 
 # 🛠️ Tech Stack
 
-### 💻 Languages
+## 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,python,php,html,css,bash,mysql,mongodb&perline=9" />
+<a href="#"><img title="Java" alt="Java" src="https://skillicons.dev/icons?i=java"/></a>
+<a href="#"><img title="JavaScript" alt="JavaScript" src="https://skillicons.dev/icons?i=js"/></a>
+<a href="#"><img title="Python" alt="Python" src="https://skillicons.dev/icons?i=python"/></a>
+<a href="#"><img title="PHP" alt="PHP" src="https://skillicons.dev/icons?i=php"/></a>
+<a href="#"><img title="HTML5" alt="HTML5" src="https://skillicons.dev/icons?i=html"/></a>
+<a href="#"><img title="CSS3" alt="CSS3" src="https://skillicons.dev/icons?i=css"/></a>
+<a href="#"><img title="Bash" alt="Bash" src="https://skillicons.dev/icons?i=bash"/></a>
 </p>
 
----
-
-### 🚀 Frameworks & Technologies
+## 🚀 Frameworks & Technologies
 
 <p>
-  <img src="https://skillicons.dev/icons?i=spring,nodejs,docker&perline=6" />
+<a href="#"><img title="Spring Boot" alt="Spring Boot" src="https://skillicons.dev/icons?i=spring"/></a>
+<a href="#"><img title="Node.js" alt="Node.js" src="https://skillicons.dev/icons?i=nodejs"/></a>
+<a href="#"><img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/></a>
 </p>
 
 - Spring Boot
@@ -62,21 +64,26 @@ Passionate about building secure software, networking, cloud technologies and cy
 - Thymeleaf
 - Express.js
 
----
-
-### 🗄️ Databases
+## 🗄️ Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb&perline=4" />
+<a href="#"><img title="MySQL" alt="MySQL" src="https://skillicons.dev/icons?i=mysql"/></a>
+<a href="#"><img title="MongoDB" alt="MongoDB" src="https://skillicons.dev/icons?i=mongodb"/></a>
 </p>
 
----
-
-### 🛠️ Development Tools
+## 🛠️ Development Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,linux,vscode,idea,postman,docker&perline=7" />
+<a href="#"><img title="Git" alt="Git" src="https://skillicons.dev/icons?i=git"/></a>
+<a href="#"><img title="GitHub" alt="GitHub" src="https://skillicons.dev/icons?i=github"/></a>
+<a href="#"><img title="Linux" alt="Linux" src="https://skillicons.dev/icons?i=linux"/></a>
+<a href="#"><img title="Docker" alt="Docker" src="https://skillicons.dev/icons?i=docker"/></a>
+<a href="#"><img title="IntelliJ IDEA" alt="IntelliJ" src="https://skillicons.dev/icons?i=idea"/></a>
+<a href="#"><img title="Visual Studio Code" alt="VS Code" src="https://skillicons.dev/icons?i=vscode"/></a>
+<a href="#"><img title="Postman" alt="Postman" src="https://skillicons.dev/icons?i=postman"/></a>
 </p>
+
+Additional tools:
 
 - WebStorm
 - Wireshark
@@ -86,23 +93,23 @@ Passionate about building secure software, networking, cloud technologies and cy
 
 ---
 
-### 🔐 Cyber Security
+# 🔐 Cyber Security
 
-- OWASP Top 10
-- MITRE ATT&CK
-- NIST Cybersecurity Framework
-- ISO/IEC 27001
-- Network Security
-- Risk Assessment
-- Threat Modeling
+- 🛡️ OWASP Top 10
+- 🎯 MITRE ATT&CK
+- 📖 NIST Cybersecurity Framework
+- 📑 ISO/IEC 27001
+- 🌐 Network Security
+- 📊 Risk Assessment
+- 🎭 Threat Modeling
 
 ---
 
 # 📂 Featured Projects
 
-> 🚧 Currently building my public portfolio.
+🚧 Currently building my public portfolio.
 
-Coming soon:
+Upcoming projects:
 
 - 🔐 Secure Authentication API
 - 📊 Security Dashboard
@@ -125,13 +132,10 @@ Coming soon:
 # 🔥 GitHub Streak
 
 <p align="center">
-
 <img src="https://streak-stats.demolab.com?user=Mooorten&theme=tokyonight&hide_border=true"/>
-
 </p>
 
 ---
-
 
 # 📫 Connect
 
